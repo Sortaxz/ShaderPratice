@@ -30,6 +30,12 @@
     "m_CategoryData": [
         {
             "m_Id": "197e3ae307cb4c619a15b5e1396db08b"
+        },
+        {
+            "m_Id": "f554cfcd5f184ccda8080159315e530f"
+        },
+        {
+            "m_Id": "97419757fff4464fb3e4253f8ba4b235"
         }
     ],
     "m_Nodes": [
@@ -660,29 +666,7 @@
     "m_Type": "UnityEditor.ShaderGraph.CategoryData",
     "m_ObjectId": "197e3ae307cb4c619a15b5e1396db08b",
     "m_Name": "",
-    "m_ChildObjectList": [
-        {
-            "m_Id": "9c2a44619af94f679a2331858044d9cd"
-        },
-        {
-            "m_Id": "cd83e025255e4471b693c374f7a6f4fb"
-        },
-        {
-            "m_Id": "93eda5a187f84f7388f28b9c2b0e0818"
-        },
-        {
-            "m_Id": "7aa7a89ceadc42f89f80c01e1dab7a98"
-        },
-        {
-            "m_Id": "7d1ab6ae84c049b8aeca11646de1e4e7"
-        },
-        {
-            "m_Id": "686d7b7a09be41839596a1c4435e8729"
-        },
-        {
-            "m_Id": "536a547c903d42b2bbfceb21239af8fe"
-        }
-    ]
+    "m_ChildObjectList": []
 }
 
 {
@@ -1919,6 +1903,27 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.CategoryData",
+    "m_ObjectId": "97419757fff4464fb3e4253f8ba4b235",
+    "m_Name": "Hologram",
+    "m_ChildObjectList": [
+        {
+            "m_Id": "686d7b7a09be41839596a1c4435e8729"
+        },
+        {
+            "m_Id": "7d1ab6ae84c049b8aeca11646de1e4e7"
+        },
+        {
+            "m_Id": "7aa7a89ceadc42f89f80c01e1dab7a98"
+        },
+        {
+            "m_Id": "93eda5a187f84f7388f28b9c2b0e0818"
+        }
+    ]
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.BlockNode",
     "m_ObjectId": "9816070fadc8437b8cbc2e25b35011dd",
     "m_Group": {
@@ -2902,6 +2907,24 @@
         "x": -1788.999755859375,
         "y": -246.99996948242188
     }
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.CategoryData",
+    "m_ObjectId": "f554cfcd5f184ccda8080159315e530f",
+    "m_Name": "Main",
+    "m_ChildObjectList": [
+        {
+            "m_Id": "9c2a44619af94f679a2331858044d9cd"
+        },
+        {
+            "m_Id": "cd83e025255e4471b693c374f7a6f4fb"
+        },
+        {
+            "m_Id": "536a547c903d42b2bbfceb21239af8fe"
+        }
+    ]
 }
 
 {
